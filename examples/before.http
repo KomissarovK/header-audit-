@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+x-content-type-options: invalid
+Referrer-Policy: unsafe-url
+Set-Cookie: session=example-only; Secure; HttpOnly
+
+<html><p>Синтетический пример до настройки.</p></html>
